@@ -1,4 +1,4 @@
-# corp_portfolio_ananlysis
+# corp_portfolio_analysis
 기업 시장/재무데이터 분석 
 
 1. 종목데이터 크롤링 및 테이블 생성  
